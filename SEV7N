@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <link rel="stylesheet" type="text/css" href="./css/main.css">
+    <link rel="stylesheet" type="text/css" href="./css/slick.css" />
+    <title> SEV7N </title>
+</head>
+
+<body>
+    <header class="menu-principal">
+        <main>
+            <div class="header-1">
+                <div class="logo">
+                    <img src="./img/logo.png    " />
+                </div>
+                <div class="redes-sociais">
+                    <ul>
+                        <li>
+                            <a href="https://www.instagram.com/sev7nesports/">
+                                <img src="./img/insta.png" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <img src="./img/face.png" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <img src="./img/YT.png" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+                                <img src="./img/tik.png" />
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </main>
+    </header>
+    <main class="col-100 menu-urls">
+        <div class="header-2">
+         <strong>   <div class="menu">
+                <ul>
+                    <li>
+                        <a href="./index.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="./About Us.html">About Us</a>
+                    </li>
+                    <li>
+                        <a href="./PRODUTOS.HTML">Produtos</a>
+                    </li>
+                    <li>
+                        <a href="./Contact Us.html">Contact Us</a>
+                    </li>
+                </ul>
+            </div></strong>
+            <div class="busca">
+                <input placeholder="Search Something" type="text" />
+            </div>
+        </div>
+    </main>
+    <div class="col-100">
+        <div class="slider-principal">
+            <img src="./img/free.png" />
+            <img src="./img/loud.png    " />
+            <img src="./img/FluxoGG.png" />
+            <img src="./img/sv7.png" />
+        </div>
+    
+    <div class="col-100 bloco-imagens-texto">
+        <div class="content" style="margin-left: 24%; float: left;">
+            <div class="col-3 bloco-texto bloco-imagem">
+                <a href="./PRODUTOS.HTML">  <img src="./img/s7.png"></a>
+               
+            </div>
+            <div class="col-3 bloco-texto bloco-imagem">
+                <a href="./PRODUTOS.HTML"><img src="./img/fluxo.png"></a>
+           
+               
+            </div>
+            <div class="col-3 bloco-texto bloco-imagem">
+               <a href="./PRODUTOS.HTML"> <img src="./img/loudvv.png"></a>
+                
+        </div>
+        </div>
+    </div>
+    </div>
+    <div class="col-100 bloco-logos">
+        <div class="content">
+            <div class="col-4">
+                <img alt="logo" title="logo" src="img/itau.png" />
+            </div>
+            <div class="col-4">
+                <img alt="logo" title="logo" src="img/razer.jpg" />
+            </div>
+            <div class="col-4">
+                <br />
+                <img alt="logo" title="logo" src="img/bk.jpg" />
+            </div>
+            <div class="col-4">
+                <br />
+                <img alt="logo" title="logo" src="img/Santander.png" />
+            </div>
+           
+        </div>
+    </div>
+    <footer>
+        <div class="col-100 footer">
+            <div class="content">
+                <div class="col-4">
+                    
+                   <strong <p>© 2021, SEV7N Ltd, Todos os direitos reservados. Contato: loja@sev7n.esports</p>
+                    <p>
+                        Giovanna Ribeiro Irineu 1K RGM 26001136
+                     </p></strong>
+                </div>
+                
+            </div>
+        </div>
+    </footer>
+    <script type="text/javascript" src="./js/jquery.js"></script>
+    <script type="text/javascript" src="./js/jquery-migrate.js"></script>
+    <script type="text/javascript" src="./js/slick.min.js"></script>
+    <script type="text/javascript" src="./js/main.js"></script>
+</body>
+
+</html>
